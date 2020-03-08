@@ -1,0 +1,9 @@
+;; QUESTIONS:
+;;	google.co.jp., type = A, class = IN
+
+;; ANSWERS:
+google.co.jp.		300	IN	A	172.217.10.35
+
+Query time: 5528
+When: Wed Mar 13 22:47:22 EDT 2019
+;; Message size: 46 bytes
